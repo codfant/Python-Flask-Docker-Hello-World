@@ -1,0 +1,1 @@
+docker kill pdhw; docker rm pdhw
